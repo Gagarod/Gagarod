@@ -1,4 +1,6 @@
 ### Hi there 👋
+<h1 align="center">Hi🐉, I'm Aman Singh</h1>
+<h3 align="center">3rd year student at TIT&S, Bhiwani</h3>
 
 <!--
 **Gagarod/Gagarod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
