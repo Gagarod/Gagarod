@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Gagarod&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=eshan1925&" alt="eshan1925" height=200px width=400px/>&nbsp;&nbsp;&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=eshan1925&show_icons=true&locale=en" alt="eshan1925" height=200px width=400px/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=eshan1925&show_icons=true&locale=en&layout=compact" alt="eshan1925" /></p>
+
+<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gagarod" alt="eshan1925" /></a> </p>
+
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Gagarod&" alt="Gagarod" height=200px width=400px/>&nbsp;&nbsp;&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Gagarod&show_icons=true&locale=en" alt="Gagarod" height=200px width=400px/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gagarod&show_icons=true&locale=en&layout=compact" alt="Gagarod" /></p>
