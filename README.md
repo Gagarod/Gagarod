@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gagarod&row=1" alt="Gagarod" /></a> </p>
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Gagarod&" alt="Gagarod" height=200px width=400px/>&nbsp;&nbsp;&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Gagarod&show_icons=true&locale=en" alt="Gagarod" height=200px width=400px/></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Gagarod&theme=github_dark" alt="Gagarod" height=200px width=400px/>&nbsp;&nbsp;&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Gagarod&show_icons=true&locale=en" alt="Gagarod" height=200px width=400px/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gagarod&show_icons=true&locale=en&layout=compact" alt="Gagarod" /></p>
 ## Programming Languages
 
