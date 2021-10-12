@@ -4,20 +4,6 @@
 <h3 align="center">3rd year student at TIT&S, Bhiwani</h3>
 <br>
 
-<!--
-**Gagarod/Gagarod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gagarod&label=Profile%20views&style=for-the-badge&color=0e75b6" alt="Gagarod" align="centre" height=27px width=130px /></p>
 <!-- <p > <img src="https://komarev.com/ghpvc/?username=Gagarod&label=Profile%20views&color=0e75b6&style=flat" alt="Gagarod" align="left" height=27px width=130px />  <a href="https://twitter.com/RealGagarod" target="blank"><img src="https://img.shields.io/twitter/follow/RealGagarod?logo=twitter&style=for-the-badge" alt="RealGagarod" align="right" /></a> </p><br><br>
 <p > <a href="https://www.linkedin.com/in/aman-singh-8a5892191/" target="blank"><img src="https://img.shields.io/badge/follow-Aman Singh-blue?style=for-the-badge&logo=linkedin" alt="Aman Singh" align="right" /></a> </p><br><br> -->
@@ -28,11 +14,8 @@ Here are some ideas to get you started:
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Gagarod&theme=nightowl&date_format=j%20M%5B%20Y%5D" alt="Gagarod" height=200px width=400px/>&nbsp;&nbsp;&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Gagarod&theme=nightowl&show_icons=true&locale=en" alt="Gagarod" height=200px width=400px/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gagarod&theme=outrun&show_icons=true&locale=en&layout=compact" alt="Gagarod" /></p>
 
-<!-- ## Programming Languages -->
-
-<p align="center">
-    <h2 align="center">Programming Languages</h2>	
-    <div align="center">
+## Programming Languages
+<p>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
@@ -41,7 +24,6 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white"></a>
     <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
-    </div>
 </p>
 
 ## Frameworks and Libraries
@@ -49,6 +31,13 @@ Here are some ideas to get you started:
    <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"></a>
    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a> 
 </p>
+<!-- <p align="center">
+    <h2 align="center">Frameworks and Libraries</h2>	
+    <div align="center">
+	<a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"></a>
+        <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a> 
+    </div>
+</p> -->
 
 ## Operating Systems
 <p>
