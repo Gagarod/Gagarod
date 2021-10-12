@@ -40,15 +40,14 @@ Here are some ideas to get you started:
 
 ## Frameworks and Libraries
 <p>
-   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
-   <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
+   <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"></a>
+   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a> 
 </p>
 
 ## Operating Systems
 <p>
 	<a href="#"><img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&logoColor=white"></a>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
-	<a href="#"><img alt="Apple" src="https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white"></a>
 	
 </p>
 
@@ -56,8 +55,6 @@ Here are some ideas to get you started:
 <p>
 	<a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white"></a>
 	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
-	<a href="#"><img alt="Safari" src="https://img.shields.io/badge/Safari-FF1B2D?logo=Safari&logoColor=white"></a>
-	<a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
 </p>
 
 ## Databases and Cloud hosting
