@@ -71,5 +71,6 @@ Here are some ideas to get you started:
 	<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white"></a>
 	<a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2B%2B&logoColor=black"></a>
 	<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
+	<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white"></a>
 </p>
 
