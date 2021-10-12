@@ -1,4 +1,5 @@
 <!-- ### Hi there 👋 -->
+![Github Banner](banner.png)
 <h1 align="center">Hi🐉, I'm Aman Singh</h1>
 <h3 align="center">3rd year student at TIT&S, Bhiwani</h3>
 <br><br>
