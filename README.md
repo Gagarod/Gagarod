@@ -5,9 +5,6 @@
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gagarod&label=Profile%20views&style=for-the-badge&color=0e75b6" alt="Gagarod" align="centre" height=27px width=130px /></p>
-<!-- <p > <img src="https://komarev.com/ghpvc/?username=Gagarod&label=Profile%20views&color=0e75b6&style=flat" alt="Gagarod" align="left" height=27px width=130px />  <a href="https://twitter.com/RealGagarod" target="blank"><img src="https://img.shields.io/twitter/follow/RealGagarod?logo=twitter&style=for-the-badge" alt="RealGagarod" align="right" /></a> </p><br><br>
-<p > <a href="https://www.linkedin.com/in/aman-singh-8a5892191/" target="blank"><img src="https://img.shields.io/badge/follow-Aman Singh-blue?style=for-the-badge&logo=linkedin" alt="Aman Singh" align="right" /></a> </p><br><br> -->
-<!-- <div style="display:flex;align-items:center;justify-items:center;"> <img src="https://komarev.com/ghpvc/?username=Gagarod&label=Profile%20views&color=0e75b6&style=flat" alt="Gagarod" align="left" height=27px width=130px />  <div align="right" style="margin: 0px 2px;"><a href="https://twitter.com/RealGagarod" target="blank"><img src="https://img.shields.io/twitter/follow/RealGagarod?logo=twitter&style=for-the-badge" alt="RealGagarod"/></a><a href="https://www.linkedin.com/in/aman-singh-8a5892191/" target="blank"><img src="https://img.shields.io/badge/follow-Aman Singh-blue?style=for-the-badge&logo=linkedin" alt="Aman Singh" align="right" /></a></div></div><br><br> -->
 
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gagarod&theme=darkhub&row=1" alt="Gagarod" /></a> </p>
 
