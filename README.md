@@ -8,7 +8,7 @@
 
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gagarod&theme=darkhub&row=1" alt="Gagarod" /></a> </p>
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Gagarod&theme=nightowl&date_format=j%20M%5B%20Y%5D" alt="Gagarod" height=200px width=400px/>&nbsp;&nbsp;&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Gagarod&theme=nightowl&show_icons=true&locale=en" alt="Gagarod" height=200px width=400px/></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Gagarod&theme=nightowl&date_format=j%20M%5B%20Y%5D" alt="Gagarod" height=200 width=400px/>&nbsp;&nbsp;&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Gagarod&theme=nightowl&show_icons=true&locale=en" alt="Gagarod" height=200 width=400px/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gagarod&theme=outrun&show_icons=true&locale=en&layout=compact" alt="Gagarod" /></p>
 
 ## Programming Languages
