@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 ![Github Banner](banner.png)
 <h1 align="center">Hi🐉, I'm Aman Singh</h1>
-<h3 align="center">Final year CSE student at TIT&S, Bhiwani</h3>
+<!-- <h3 align="center">Final year CSE student at TIT&S, Bhiwani</h3> -->
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gagarod&label=Profile%20views&style=for-the-badge&color=0e75b6" alt="Gagarod" align="centre" height=27px width=130px /></p>
